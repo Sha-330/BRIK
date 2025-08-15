@@ -1,4 +1,4 @@
-### This is the code of Expolatory Data Analysis in jupyrtlab. It done as the first task in BRIK's Data science team member
+### This notebook contains the Exploratory Data Analysis performed as the initial task in my role as a member of BRIK’s Data Science Team.
 ### This code showcases following Queastions
 1. List the top 10 institutions with the highest 6-year graduation rates (`grad_150_value`).
 2. Which 10 institutions have the lowest average financial aid awarded (`aid_value`)?
